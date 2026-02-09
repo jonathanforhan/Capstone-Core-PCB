@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "Capstone Footprints")(type "KiCad")(uri "C:/Users/labon/OneDrive - SNHU/Senior Year/Capstone-Core-PCB/Capstone Footprints")(options "")(descr ""))
+  (lib (name "Capstone Footprints")(type "KiCad")(uri "${KIPRJMOD}/Capstone Footprints")(options "")(descr ""))
 )

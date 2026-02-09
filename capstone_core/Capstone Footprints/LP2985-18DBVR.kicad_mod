@@ -14,8 +14,8 @@
 			)
 		)
 	)
-	(property "Value" "SOT95P280X145-5N"
-		(at 5.528 2.508 0)
+	(property "Value" "LP2985-33DBVR"
+		(at 2.85 2.44 0)
 		(layer "F.Fab")
 		(uuid "52f2326e-403c-4a2e-825a-5f7dd965e281")
 		(effects
@@ -223,4 +223,15 @@
 		(uuid "e42cd1ed-d66a-46ad-8664-66d0e14e3894")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/Capstone Component 3D Models/LP2985A-18DBVR.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

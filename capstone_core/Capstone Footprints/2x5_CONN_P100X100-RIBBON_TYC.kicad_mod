@@ -766,4 +766,15 @@
 		(uuid "4490cac2-8165-47c5-bf8e-06ef6b97be2d")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/Capstone Component 3D Models/2x5_CONN.stp"
+		(offset
+			(xyz 1.25 -5.1 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
 )

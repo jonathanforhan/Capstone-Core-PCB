@@ -1,4 +1,4 @@
-(footprint "TO170P1524X483-6N"
+(footprint "LM2596S-5"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -481,4 +481,15 @@
 		(uuid "69cdfd23-a077-45dd-a279-b980f0df0066")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/Capstone Component 3D Models/LM2596S-5.0.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

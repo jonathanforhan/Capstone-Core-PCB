@@ -1,4 +1,4 @@
-24793980628815547
+24795761654488164
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6503,6 +6503,13 @@ UCL1V331MNL1GS
 2
 2
 Capstone Footprints
+CAP_680uF_35V_EEHZS1V681UV
+
+
+0
+2
+2
+Capstone Footprints
 CAP_680uF_35V_UHW1V681MPD6
 
 UHW1V681MPD6 
@@ -6650,19 +6657,19 @@ PCA9306USG
 8
 8
 Capstone Footprints
+PI_Connector
+
+
+0
+40
+40
+Capstone Footprints
 POT_2k_PV36W202C01B00
 
 PV36W202C01B00 
 0
 3
 3
-Capstone Footprints
-RPI_Hat_B+
-
-
-0
-40
-40
 Capstone Footprints
 TestPoint_Plated_Hole_D1.0mm
 Plated Hole as test Point, diameter 2.0mm
