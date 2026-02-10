@@ -1,0 +1,238 @@
+(footprint "CAP_220uF_10V_RR71A221MDN1"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(tags "RR71A221MDN1 ")
+	(property "Reference" "REF**"
+		(at 2.5019 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a2097871-21e8-4234-a1b9-732536344392")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "RR-B_NCH"
+		(at 2.5019 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e8a5bdbc-7e71-4dcc-8d38-c00d64e179e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "91739e4d-0692-4f57-8025-7d46d1000240")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3601b674-5577-49b1-8d86-f597859899b4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.0259 0)
+		(end -2.7559 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "409af3ef-f7c8-49b4-a7f6-82734401d3ad")
+	)
+	(fp_line
+		(start -3.3909 -0.635)
+		(end -3.3909 0.635)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "75870c20-3288-4584-8edd-5f464c1da42d")
+	)
+	(fp_circle
+		(center 2.5019 0)
+		(end 7.6327 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "927163a1-d498-4d78-9ad4-376840a53801")
+	)
+	(fp_line
+		(start -2.7559 -2.164977)
+		(end 0.336923 -5.2578)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "efb2f57b-9380-4b54-88a2-30e9a49d753b")
+	)
+	(fp_line
+		(start -2.7559 2.164977)
+		(end -2.7559 -2.164977)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "aaffaeb3-08ae-4b96-8fdb-b2a4cf4f49bb")
+	)
+	(fp_line
+		(start 0.336923 -5.2578)
+		(end 4.666877 -5.2578)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d7591dee-f4ee-495a-8c18-d9c64550b9ed")
+	)
+	(fp_line
+		(start 0.336923 5.2578)
+		(end -2.7559 2.164977)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "56035d37-41df-4453-bec0-e0b292c8cc32")
+	)
+	(fp_line
+		(start 4.666877 -5.2578)
+		(end 7.7597 -2.164977)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "640e734b-06e3-445e-9b5e-d18282765538")
+	)
+	(fp_line
+		(start 4.666877 5.2578)
+		(end 0.336923 5.2578)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "093152bd-1ea9-4d0f-ae15-e255a8435686")
+	)
+	(fp_line
+		(start 7.7597 -2.164977)
+		(end 7.7597 2.164977)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fe104f2a-2ff3-4a31-a820-397b1738b482")
+	)
+	(fp_line
+		(start 7.7597 2.164977)
+		(end 4.666877 5.2578)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e4c0c28b-d210-4982-9aad-995ec1e0886d")
+	)
+	(fp_line
+		(start -4.0259 0)
+		(end -2.7559 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ab393a43-f3aa-47ae-bc71-bea6305223c1")
+	)
+	(fp_line
+		(start -3.3909 -0.635)
+		(end -3.3909 0.635)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4c4f6fa2-feaf-4855-a84f-03c1b9d13f59")
+	)
+	(fp_circle
+		(center 2.5019 0)
+		(end 7.5057 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "880bff25-126d-4868-bf1f-55d7d696cf47")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.5019 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5ead9231-ba26-4467-8a15-73bc11b2e5a5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.3716 1.3716)
+		(drill 0.8636)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "61b36a13-0bf8-43b8-b731-23faba760aae")
+	)
+	(pad "2" thru_hole circle
+		(at 5.0038 0)
+		(size 1.3716 1.3716)
+		(drill 0.8636)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b1a10e93-063e-4e59-b10f-567021946ec8")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Capstone Component 3D Models/CAP_220uF_10V.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

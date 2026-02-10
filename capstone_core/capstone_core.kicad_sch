@@ -15989,7 +15989,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capstone Footprints:RPI_Hat_B+"
+		(property "Footprint" "Capstone Footprints:PI_Connector"
 			(at 49.53 48.26 0)
 			(effects
 				(font
@@ -17276,7 +17276,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capstone Footprints:CAP_680uF_35V_UHW1V681MPD6"
+		(property "Footprint" "Capstone Footprints:CAP_680uF_35V_EEHZS1V681UV"
 			(at 304.4952 92.71 0)
 			(effects
 				(font
@@ -18712,7 +18712,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capstone Footprints:CAP_680uF_35V_UHW1V681MPD6"
+		(property "Footprint" "Capstone Footprints:CAP_680uF_35V_EEHZS1V681UV"
 			(at 191.4652 92.71 0)
 			(effects
 				(font

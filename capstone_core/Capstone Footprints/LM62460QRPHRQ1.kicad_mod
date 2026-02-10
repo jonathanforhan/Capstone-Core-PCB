@@ -104,18 +104,6 @@
 		(layer "F.Fab")
 		(uuid "e0b4608d-0d1b-4530-975d-ebda324e29fd")
 	)
-	(fp_text user "Designator819"
-		(at -1.7526 -3.7592 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "7a1c7270-425f-4570-8cdc-f1be3534fda6")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(unlocked yes)
@@ -225,4 +213,15 @@
 		(uuid "f7a1ba4f-0207-487b-89e1-2c7bacad2396")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/Capstone Component 3D Models/LM62460QRPHRQ1.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
